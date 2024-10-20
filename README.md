@@ -13,8 +13,8 @@ Explore the projects and feel free to reach out for collaborations or inquiries!
 
 ## Demo
 
-![Desktop Screen Recording](Nishant-Portfolio-Website-Demo-Video.gif)
-![Mobile Screen Recording](Nishant-Portfolio-Website-Mobile-Demo-Video.gif)
+![Desktop Screen Recording](assets/Nishant-Portfolio-Website-Demo-Video.gif)
+![Mobile Screen Recording](assets/Nishant-Portfolio-Website-Mobile-Demo-Video.gif)
 
 ## Tech Stack
 
